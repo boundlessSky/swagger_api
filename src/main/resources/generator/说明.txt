@@ -1,0 +1,2 @@
+**代码生成器使用方法：**
+maven命令：mvn mybatis-generator:generate -e
